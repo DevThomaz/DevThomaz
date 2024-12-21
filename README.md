@@ -1,4 +1,4 @@
-## Hi there Im Carlos! 👋
+## Hi there Im Thomaz! 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=DevThomaz&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats">
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="mailto:contatoguilhermethomaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Static GitHub"></a>
