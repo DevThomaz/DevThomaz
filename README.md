@@ -6,4 +6,5 @@
 </div>
 
 <p>Passionate about development, I'm 19 and my hobbies are programming, music and video editing</p>
-<p>* XP: BNDES JAVA DEVELOPER *</p>
+
+**BNDES JAVA DEVELOPER**
