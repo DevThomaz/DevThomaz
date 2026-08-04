@@ -5,6 +5,4 @@
 <a href="https://www.linkedin.com/in/carlos-guilherme-thomaz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Static GitHub"></a>
 </div>
 
-<p>Passionate about development, I'm 19 and my hobbies are programming, music and video editing</p>
-
 **BNDES JAVA DEVELOPER**
