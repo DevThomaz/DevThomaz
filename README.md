@@ -4,8 +4,6 @@ Full-Stack Developer · BNDES · Rio de Janeiro
 
 [Gmail](mailto:contatoguilhermethomaz@gmail.com) · [LinkedIn](https://linkedin.com/in/carlos-guilherme-thomaz)
 
----
-
 ## Sobre
 
 Estagiando como desenvolvedor no **BNDES**, atuando em projetos internos.
